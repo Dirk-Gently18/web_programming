@@ -1,0 +1,38 @@
+body {
+    font-family: serif;
+    background-color:#1D88EA;
+    color: #000000;
+    line-height: 1.5;
+}
+
+h1{
+  text-align: center;
+  color: #A3D7DC;
+  line-height: 2.0;
+  border:5px solid #80FF83;
+}
+
+h2{
+  text-align: center;
+  color: #A3D7DC;
+  line-height: 1.5;
+  border:4px solid #80FF83;
+}
+
+h3{
+  text-align: center;
+  color: #A3D7DC;
+  line-height: 1.0;
+  border:2px solid #80FF83;
+}
+
+p{
+  text-align: justify;
+  color: #80FF83;
+  line-height: 1.5;
+}
+
+li{
+  text-align: left;
+  color: #80FF83;
+}
